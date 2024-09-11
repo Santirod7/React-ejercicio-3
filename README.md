@@ -1,4 +1,4 @@
-# Segundo ejercicio de React
+# Tercer ejercicio de React
 
 [![React](https://img.shields.io/badge/React-v17+-blue.svg)](https://reactjs.org/)
 
